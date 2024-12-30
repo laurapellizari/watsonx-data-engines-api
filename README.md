@@ -1,4 +1,4 @@
-# Aplicando diferentes engines no watsonx.data através da API
+# Aplicando diferentes engines no watsonx.data via watsonx.ai
 
 ## Objetivo
 
@@ -33,7 +33,7 @@ Com essa abordagem, o Spark se destaca em tarefas de transformação e movimenta
 
 ## O que existe nesse repositório:
 
-Este repositório contém dois Notebooks que demonstram como usar a API do watsonx.data para realizar consulta, a partir de diferentes engines. O primeiro Notebook, chamado [Aplicando Spark engine no watsonx.data através via watsonx.ai](https://github.com/laurapellizari/watsonx-data-engines-api/blob/main/%5BPT-BR%5D%20Aplicando%20%20Spark%20engine%20no%20watsonx.data%20atrav%C3%A9s%20via%20watsonx.ai%20.ipynb), demonstra como utilizar a API do watsonx.data para criar conexão, listar databases, realizar uma consulta e executá-la por meio do Spark. O segundo Notebook, [Aplicando diferentes engines no watsonx.data via watsonx.ai](https://github.com/laurapellizari/watsonx-data-engines-api/blob/main/%5BPT-BR%5D%20Aplicando%20diferentes%20engines%20no%20watsonx.data%20via%20watsonx.ai%20.ipynb), aplica o mesmo conceito, porém utilizando engines do Presto, como Presto Java e Presto C++.
+Este repositório contém dois Notebooks que demonstram como usar a API do watsonx.data para realizar consulta, a partir de diferentes engines. O primeiro Notebook, chamado [Aplicando Spark engine no watsonx.data via watsonx.ai](https://github.com/laurapellizari/watsonx-data-engines-api/blob/main/%5BPT-BR%5D%20Aplicando%20%20Spark%20engine%20no%20watsonx.data%20atrav%C3%A9s%20via%20watsonx.ai%20.ipynb), demonstra como utilizar a API do watsonx.data para criar conexão, listar databases, realizar uma consulta e executá-la por meio do Spark. O segundo Notebook, [Aplicando diferentes engines no watsonx.data via watsonx.ai](https://github.com/laurapellizari/watsonx-data-engines-api/blob/main/%5BPT-BR%5D%20Aplicando%20diferentes%20engines%20no%20watsonx.data%20via%20watsonx.ai%20.ipynb), aplica o mesmo conceito, porém utilizando engines do Presto, como Presto Java e Presto C++.
 
 ## Requisitos
 
@@ -44,6 +44,6 @@ Para executar os códigos neste repositório, você precisará:
 - Ter um projeto criado no watsonx.ai.
 - Ter uma API Key da IBM Cloud para autenticar na API.
 - Adicionar os dois notebooks ao seu projeto:
-    - [Aplicando Spark engine no watsonx.data através via watsonx.ai](https://github.com/laurapellizari/watsonx-data-engines-api/blob/main/%5BPT-BR%5D%20Aplicando%20%20Spark%20engine%20no%20watsonx.data%20atrav%C3%A9s%20via%20watsonx.ai%20.ipynb)
+    - [Aplicando Spark engine no watsonx.data via watsonx.ai](https://github.com/laurapellizari/watsonx-data-engines-api/blob/main/%5BPT-BR%5D%20Aplicando%20%20Spark%20engine%20no%20watsonx.data%20atrav%C3%A9s%20via%20watsonx.ai%20.ipynb)
     - [Aplicando diferentes engines no watsonx.data via watsonx.ai](https://github.com/laurapellizari/watsonx-data-engines-api/blob/main/%5BPT-BR%5D%20Aplicando%20diferentes%20engines%20no%20watsonx.data%20via%20watsonx.ai%20.ipynb)
 
