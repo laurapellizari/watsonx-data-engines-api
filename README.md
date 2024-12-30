@@ -29,8 +29,6 @@ Ideal para: Cargas de trabalho em batch, pipelines de dados e preparação para 
 
 Ideal para: Consultas SQL interativas e baixa latência em análises de dados estruturados ou semi-estruturados.
 
-Com essa abordagem, o Spark se destaca em tarefas de transformação e movimentação de dados em larga escala, enquanto o Presto é ideal para atender a necessidades analíticas em tempo real e fornecer acessos rápidos para tomadas de decisão.
-
 ## O que existe nesse repositório:
 
 Este repositório contém dois Notebooks que demonstram como usar a API do watsonx.data para realizar consulta, a partir de diferentes engines. O primeiro Notebook, chamado [Aplicando Spark engine no watsonx.data via watsonx.ai](https://github.com/laurapellizari/watsonx-data-engines-api/blob/main/%5BPT-BR%5D%20Aplicando%20%20Spark%20engine%20no%20watsonx.data%20atrav%C3%A9s%20via%20watsonx.ai%20.ipynb), demonstra como utilizar a API do watsonx.data para criar conexão, listar databases, realizar uma consulta e executá-la por meio do Spark. O segundo Notebook, [Aplicando diferentes engines no watsonx.data via watsonx.ai](https://github.com/laurapellizari/watsonx-data-engines-api/blob/main/%5BPT-BR%5D%20Aplicando%20diferentes%20engines%20no%20watsonx.data%20via%20watsonx.ai%20.ipynb), aplica o mesmo conceito, porém utilizando engines do Presto, como Presto Java e Presto C++.
