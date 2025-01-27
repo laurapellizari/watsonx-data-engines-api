@@ -16,7 +16,6 @@ Os engines no watsonx.data são componentes de software que são responsáveis p
 Os diferentes engines são úteis em diferentes cenários, dependendo das necessidades específicas do projeto. Aqui estão algumas situações em que cada engine pode ser mais adequado:
 
 ### Spark
-- Processos de ETL (Extração, Transformação e Carga).
 - Inserção, transformação e preparação de dados para análises ou armazenamento em data lakes.
 - Workloads de processamento intensivo, como agregações complexas e cálculos em larga escala.
 
